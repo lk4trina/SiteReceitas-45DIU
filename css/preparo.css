@@ -1,0 +1,19 @@
+.preparo{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.preparo ol{
+    padding-left: 20px
+}
+
+.preparo h2{
+    color: #a2218d;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.preparo li{
+    margin-bottom: 12px;
+}
